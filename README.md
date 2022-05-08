@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Bera0422 aka Ahmed Bera Pay
-- 👀 I’m interested in programming and developing innovative projects.
 - 🌱 I’m currently a sophomore student and studying computer engineering in Bogazici University in Istanbul.
 - 📫 How to reach me ... ahmedssoftware@gmail.com
 
